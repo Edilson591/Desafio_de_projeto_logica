@@ -11,4 +11,4 @@ O código utiliza uma estrutura condicional if...else if...else para comparar i 
 O resultado é exibido no console, indicando o nível do herói com base no valor de i e no objeto nivel definido no código.
 
 # Objetivo 
-Finalizando o conteudo de logica de programação.
+Finalizando o conteudo de logica de programação do curso da dio.
